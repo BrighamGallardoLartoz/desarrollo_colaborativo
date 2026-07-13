@@ -9,7 +9,7 @@ body {
 /* Diseño del cuadrito */
 .cuadrito {
     background-color: green;
-    color: white;
+    color: black;
     width: 250px;
     height: 250px;
     margin: 0 auto;
