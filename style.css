@@ -8,8 +8,8 @@ body {
 
 /* Diseño del cuadrito */
 .cuadrito {
-    background-color: purple; /* Morado */
-    color: white;
+    background-color: green;
+    color: black;
     width: 250px;
     height: 250px;
     margin: 0 auto;
